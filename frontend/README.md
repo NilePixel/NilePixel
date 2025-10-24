@@ -1,4 +1,5 @@
 NilePixel Tech — Landing Page
+
 🌟 Overview
 NilePixel Tech is a group of intuitive developers that blends heritage and innovation.
 Inspired by the Nile — a symbol of life, connection, and growth — and combined with the Pixel, the building block of modern digital creation, NilePixel Tech represents a team rooted in African identity yet reaching global standards.
